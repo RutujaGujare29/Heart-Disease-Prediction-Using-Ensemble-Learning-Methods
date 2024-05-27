@@ -12,10 +12,15 @@ The main objective of this project is to make a predictive analytics model to di
 Various supervised machine learning algorithms were utilized to predict presence of heart disease, namingly 
 
 Support Vector Machine
+
 Random Forest
+
 Naïve Bayes
+
 Logistic Regression
+
 Decision Tree
+
 K-Nearest Neighbor 
 
 Based on each of these model results, the model giving the highest accuracy is chosen in ensemble learning to enhance the prediction.
