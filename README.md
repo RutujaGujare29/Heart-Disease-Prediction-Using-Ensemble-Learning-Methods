@@ -16,9 +16,11 @@ Logistic Regression
 Decision Tree
 K-Nearest Neighbor 
 
-Based on each of these models results, the model giving the highest accuracy is chosen in ensemble learning.
+Based on each of these model results, the model giving the highest accuracy is chosen in ensemble learning to enhance the prediction.
 
-![image](https://github.com/RutujaGujare29/Heart-Disease-Prediction-Using-Ensemble-Learning-Methods/assets/117670575/afcb2bd5-8362-4cc2-a219-13a123459dc7)
+
+
+
 
 
 
